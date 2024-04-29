@@ -13,7 +13,7 @@ static ArrayList<Integer> cpuPossition = new ArrayList<Integer>() ;
 
 /**
  * 
- *  @Vasu 
+ * Author =  @Vasu 
  */
 	public static void main(String[] args) {
 		char[][] gameBoard = { { ' ', '|', ' ', '|', ' ' }, { '-', '+', '-', '+', '-' }, { ' ', '|', ' ', '|', ' ' },
